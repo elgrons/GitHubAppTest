@@ -33,3 +33,5 @@ window.addEventListener("load", function() {
   document.querySelector("#triangle-checker-form").addEventListener("submit", handleTriangleForm);
   document.querySelector("#rectangle-area-form").addEventListener("submit", handleRectangleForm);
 });
+
+//TESTING! :)
