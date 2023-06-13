@@ -34,4 +34,4 @@ window.addEventListener("load", function() {
   document.querySelector("#rectangle-area-form").addEventListener("submit", handleRectangleForm);
 });
 
-//TESTING! :)
+//testing!!! let's see!!
