@@ -34,10 +34,4 @@ window.addEventListener("load", function() {
   document.querySelector("#rectangle-area-form").addEventListener("submit", handleRectangleForm);
 });
 
-//TESTING!
-
-//TESTING!
-
-
-
-//TESTING! MORE TESTING!
+//OH YEAH HEY!
