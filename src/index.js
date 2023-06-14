@@ -33,3 +33,16 @@ window.addEventListener("load", function() {
   document.querySelector("#triangle-checker-form").addEventListener("submit", handleTriangleForm);
   document.querySelector("#rectangle-area-form").addEventListener("submit", handleRectangleForm);
 });
+
+//LET'S GET THIS TESTasdfasdfasdfasdf
+//LET'S GET THIS TESTasdfasdfasdfasdf
+//LET'S GET THIS TESTasdfasdfasdfasdf
+//LET'S GET THIS TESTasdfasdfasdfasdf
+//LET'S GET THIS TESTasdf//LET'S GET THIS TESTasdfasdfasdfasdf
+//asdfasdfasdf
+//LET'S GET THIS TESTasdfasdfasdfasdf
+//LET'S GET THIS TESTasdfasdfasdfasdf
+//LET'S GET THIS TESTasdfasdfasdfasdf
+//LET'S GET THIS TESTasdfasdfasdfasdf
+//LET'S GET THIS TESTasdf//LET'S GET THIS TESTasdfasdfasdfasdf
+//asdfasdfasdf
