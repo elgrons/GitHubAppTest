@@ -59,19 +59,7 @@ window.addEventListener("load", function() {
 //LET'S GET THIS TESTasdf//LET'S GET THIS TESTasdfasdfasdfasdf
 //asdfasdfasdf//LET'S GET THIS TESTasdfasdfasdfasdf
 //LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfa
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdf//LET'S GET THIS TESTasdfasdfasdfasdf
-//asdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
+//LET
 //LET'S GET THIS TESTasdfasdfasdfasdf
 //LET'S GET THIS TESTasdfasdfasdfasdf
 //LET'S GET THIS TESTasdfasdfasdfa
