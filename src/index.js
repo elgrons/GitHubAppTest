@@ -34,13 +34,7 @@ window.addEventListener("load", function() {
   document.querySelector("#rectangle-area-form").addEventListener("submit", handleRectangleForm);
 });
 
-//T'S GET THIS TESTasdfasdfasdfasdf//LET'S GET THIS TESTasdfasdfasdfa
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//T'S GET THIS TESTasdfasdfasdfasdf//LET'S GET THIS TESTasdfasdfasdfa
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//T'S GET THIS TESTasdfasdfasdfasdf//LET'S GET THIS TESTasdfasdfasdfa
-//LET'S GET THIS TESTasdfasdfasdfasdf
+
 //LET'S GET THIS TESTasdfasdfasdfasdf
 //LET'S GET THIS TESTasdfasdfasdfasdf
 //LET'S GET THIS TESTasdfasdfasdfasdf
