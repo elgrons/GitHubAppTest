@@ -52,15 +52,7 @@ window.addEventListener("load", function() {
 //LET'S GET THIS TESTasdfasdfasdfasdf
 //LET'S GET THIS TESTasdfasdfasdfasdf
 //T'S GET THIS TESTasdfasdfasdfasdf//LET
-//T'S GET THIS TESTasdfasdfasdfasdf//LET'S GET THIS TESTasdfasdfasdfa
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//T'S GET THIS TESTasdfasdfasdfasdf//LET
-//T'S GET THIS TESTasdfasdfasdfasdf//LET'S GET THIS TESTasdfasdfasdfa
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//LET'S GET THIS TESTasdfasdfasdfasdf
-//T'S GET THIS TESTasdfasdfasdfasdf//LET
+
 //T'S GET THIS TESTasdfasdfasdfasdf//LET'S GET THIS TESTasdfasdfasdfa
 //LET'S GET THIS TESTasdfasdfasdfasdf
 //LET'S GET THIS TESTasdfasdfasdfasdf
